@@ -1,0 +1,8 @@
+#this should be a comment!
+#the format of this file is follows
+#for single run, the line should look like "<parameter> <value>"
+#for multiple runs, "<parameter> <min value>-<max value> <number of runs>"
+
+E	10.0-300.0	31
+E0 100.0
+
